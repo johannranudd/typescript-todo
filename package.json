@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/johannranudd/typescript-todo/issues"
   },
-  "homepage": "https://github.com/johannranudd/typescript-todo#readme"
+  "homepage": "https://github.com/johannranudd/typescript-todo#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
